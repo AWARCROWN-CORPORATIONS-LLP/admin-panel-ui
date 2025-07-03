@@ -84,7 +84,7 @@ ADMIN-PANEL/
 ####  How to Clone the Repository:
 
 ```bash
-git clone https://github.com/Awarcrown-Corporations/admin-panel-ui.git
+git clone [https://github.com/Awarcrown-Corporations/admin-panel-ui.git](https://github.com/AWARCROWN-CORPORATIONS-LLP/admin-panel-ui.git)
 cd admin-panel-ui
 ```
 
