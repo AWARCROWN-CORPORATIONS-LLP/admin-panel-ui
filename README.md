@@ -125,7 +125,7 @@ Once GitHub Pages is set up:
 
 For questions or reporting issues:
 
-*  Email: [awarcrown.corp@gmail.com](mailto:awarcrowncorporations@gmail.com)
+*  Email: [awarcrowncorporations@gmail.com](mailto:awarcrowncorporations@gmail.com)
 *  Website: [www.cybertron7.in](https://www.cybertron7.in) 
 *  GitHub: [Awarcrown-Corporations]([https://github.com/Awarcrown-Corporations](https://github.com/AWARCROWN-CORPORATIONS-LLP))
 
